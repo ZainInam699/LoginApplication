@@ -1,5 +1,5 @@
 # LoginApplication
-Login System with python and python tkinter library
+Login application with python tkinter library
 username: python
 password: python
 
