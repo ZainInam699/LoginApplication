@@ -6,5 +6,5 @@ password: python
 # requirements
 python version 3.0 or above
 
-# library / module
+# library
 python tkinter
